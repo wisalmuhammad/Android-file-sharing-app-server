@@ -8,7 +8,9 @@ Apps often have a need to offer one or more of their files to another app. For e
 
 This sample app provide a playground how to offer a file to another application when it requests for a file. For basic implementation point of view this app only host images file in its internal app specific file/images directory.
 In order to use and test this app you need to request for an image file from another client app.
+For easily testing we provide another client app to check and test the basic functionality. Here is the repo link
 
+- [File sharing client app](https://github.com/wisalmuhammad/Android-file-sharing-client)
 
 
 # License
